@@ -1,0 +1,108 @@
+{
+  "booklist": [
+    [
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "Book on C : Programming in C",
+    "ratings": 3,
+    "author": "Ira Pohl and Al Kelley",
+    "publisher": "Addison-Wesley, 2000",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41U7pVqMohL._SL300_.jpg"
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "Code Complete",
+    "ratings": 2,
+    "author": "Steve McConnell",
+    "publisher": "Addison-Wesley, 2000",
+    "image": "https://img.thriftbooks.com/api/images/l/990c8f349445a2b8fbe6b16e39a0df3d7e8507c7.jpg"
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "title": "Learning Python",
+    "ratings": 4,
+    "author": "Mark Lutz",
+    "publisher": "Que E & T, 1998",
+    "image": "https://img.thriftbooks.com/api/images/l/c4331be72fcc0d3c8f2196ecf9e8df864100755a.jpg"
+  },
+  {
+    "userId": 1,
+    "id": 4,
+    "title": "HTML and CSS : Design and Build Websites",
+    "ratings": 4,
+    "author": "Jon Duckett",
+    "publisher": "Simon and Schuster, 1975",
+    "image": "https://img.thriftbooks.com/api/images/l/42286e8944500ef27a6e5a777b7b95c27953d150.jpg"
+  },
+  {
+    "userId": 1,
+    "id": 5,
+    "title": "Creating Web Pages For Dummies",
+    "ratings": 5,
+    "author": "Bud E. Smith",
+    "publisher": "Greenwood Publishing Group, 2006",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51hL75LbeoL._SL300_.jpg"
+  }
+]
+  ],
+  "categories": [
+    { "userId": 1, "id": 1, "name": "Computer Technology" },
+    { "userId": 1, "id": 2, "name": "Art" },
+    { "userId": 1, "id": 3, "name": "Kids Books" }
+  ],
+  "bookmarks": [
+    [
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "Book on C : Programming in C",
+    "ratings": 3,
+    "author": "Ira Pohl and Al Kelley",
+    "publisher": "Addison-Wesley, 2000",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41U7pVqMohL._SL300_.jpg"
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "Code Complete",
+    "ratings": 2,
+    "author": "Steve McConnell",
+    "publisher": "Addison-Wesley, 2000",
+    "image": "https://img.thriftbooks.com/api/images/l/990c8f349445a2b8fbe6b16e39a0df3d7e8507c7.jpg"
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "title": "Learning Python",
+    "ratings": 4,
+    "author": "Mark Lutz",
+    "publisher": "Que E & T, 1998",
+    "image": "https://img.thriftbooks.com/api/images/l/c4331be72fcc0d3c8f2196ecf9e8df864100755a.jpg"
+  },
+  {
+    "userId": 1,
+    "id": 4,
+    "title": "HTML and CSS : Design and Build Websites",
+    "ratings": 4,
+    "author": "Jon Duckett",
+    "publisher": "Simon and Schuster, 1975",
+    "image": "https://img.thriftbooks.com/api/images/l/42286e8944500ef27a6e5a777b7b95c27953d150.jpg"
+  },
+  {
+    "userId": 1,
+    "id": 5,
+    "title": "Creating Web Pages For Dummies",
+    "ratings": 5,
+    "author": "Bud E. Smith",
+    "publisher": "Greenwood Publishing Group, 2006",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51hL75LbeoL._SL300_.jpg"
+  }
+]
+  ],
+  "profile": {
+    "name": "krisjoy08r"
+  }
+}
